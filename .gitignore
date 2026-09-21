@@ -1,0 +1,23 @@
+# deps
+/node_modules
+/.pnp
+.pnp.js
+
+# next
+/.next/
+/out/
+next-env.d.ts
+
+# prod
+/build
+
+# misc
+.DS_Store
+*.pem
+.vercel
+*.tsbuildinfo
+
+# env
+.env
+.env*.local
+!.env.example
